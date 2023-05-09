@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"java.project.sourcePaths": [
-			"src"
+			"src","aaa"
 		],
 		"java.project.outputPath": "bin",
 		"java.project.referencedLibraries": [
