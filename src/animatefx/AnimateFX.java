@@ -25,7 +25,7 @@ public class AnimateFX extends Application {
 		150.0, 150.0, 
 		}); 
 		//Setting the fill color for the hexagon 
-		hexagon.setFill(Color.MAGENTA); 
+		hexagon.setFill(Color.PINK); 
 
 		//Creating a rotate transition    
 		RotateTransition rotateTransition = new RotateTransition(); 
